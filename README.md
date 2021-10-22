@@ -1,1 +1,1 @@
-# C-Projects-on-Computational-Finance
+# Cpp-Projects-on-Computational-Finance
